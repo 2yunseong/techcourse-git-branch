@@ -2,6 +2,7 @@
 
 ## 스탬프크러쉬 팀을 소개합니다
 
+- [레오](leo.md)
 - [하디](Hardy.md)
 - [제나](jena.md)
 - [레고](rego-intro.md)
